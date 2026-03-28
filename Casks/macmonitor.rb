@@ -10,7 +10,7 @@
 
 cask "macmonitor" do
   version "1.0.0"
-  sha256 "PLACEHOLDER_SHA256_UPDATED_AUTOMATICALLY_BY_CI"
+  sha256 "8ed5b23a998461297c98819109b515c6a1c172a3cff3b20a5b476572c2de97fe"
 
   url "https://github.com/ryyansafar/MacMonitor/releases/download/v#{version}/MacMonitor-#{version}.dmg"
   name "MacMonitor"
