@@ -9,8 +9,8 @@
 #   brew upgrade --cask macmonitor
 
 cask "macmonitor" do
-  version "1.1.1"
-  sha256 "3ad4cf2ec0054707d459306134363c3f14b0bc93701e8321a2c7255eda76312d"
+  version "1.1.2"
+  sha256 "b06a8db84b9dc96fdb7ca064aa6e9ca8ada31fd3cc320ecaab5152ffc5bbe5d4"
 
   url "https://github.com/ryyansafar/MacMonitor/releases/download/v#{version}/MacMonitor-#{version}.dmg"
   name "MacMonitor"
